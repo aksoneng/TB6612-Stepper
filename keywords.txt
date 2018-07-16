@@ -14,8 +14,8 @@ Motor	KEYWORD1
 
 setfreq	KEYWORD2
 setmotor	KEYWORD2
-setdelay    KEYWORD2
-step        KEYWORD2
+setdelay	KEYWORD2
+step	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
@@ -28,4 +28,4 @@ _STOP	LITERAL1
 _STANDBY	LITERAL1
 _MOTOR_A	LITERAL1
 _MOTOR_B	LITERAL1
-_PWM    LITERAL1
+_PWM	LITERAL1
